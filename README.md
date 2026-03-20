@@ -8,7 +8,7 @@ This project focuses on predicting bird species observed in Halifax County, Nova
 ## Files in this Repository
 - `bird_sightings.ipynb` – Jupyter Notebook with data processing, visualization, and machine learning model training.
 - `nova_scotia.geojson` – GeoJSON file with Nova Scotia boundaries for mapping bird observations.
-- `data_bird.csv` – CSV file containing bird observations, including species, coordinates, and dates.
+- `bird_data_ns.csv` – CSV file containing bird observations, including species, coordinates, and dates.
 - `written_responses.pdf` – Written answers to project questions 1–3, including problem definition, approach, and reflections.
 
 ## Key Features
