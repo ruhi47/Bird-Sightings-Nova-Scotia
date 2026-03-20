@@ -10,6 +10,7 @@ This project focuses on predicting bird species observed in Halifax County, Nova
 - `nova_scotia.geojson` – GeoJSON file with Nova Scotia boundaries for mapping bird observations.
 - `bird_data_ns.csv` – CSV file containing bird observations, including species, coordinates, and dates.
 - `written_responses.pdf` – Written answers to project questions 1–3, including problem definition, approach, and reflections.
+- `Video_presentation.mov` - A Small video presentation going through the project.
 
 ## Key Features
 - Filters bird observations to Halifax County for now.
